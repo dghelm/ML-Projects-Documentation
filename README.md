@@ -10,9 +10,9 @@ Developed as a semester-long project for CS5033 at the University of Oklahoma, t
 
 Code has not been cleaned or consolidated, but was a loose set of Jupiter Notebooks sharing helper modules that eventually incorporated Tensorboard for additional imaging and training metrics.
 
-_Final Paper available [here]('./01-AutismFMRI/AutismFMRI-Paper.pdf')._
+_Final Paper available [here](./01-AutismFMRI/AutismFMRI-Paper.pdf)._
 
-_Slideshow of final presentation is available [here]('./01-AutismFMRI/AutismFMRI-Presentation.pdf')._
+_Slideshow of final presentation is available [here](./01-AutismFMRI/AutismFMRI-Presentation.pdf)._
 
 ## 2017
 
@@ -24,9 +24,9 @@ The project had various modules adjacent to ML processes (including OpenCV usage
 
 Ultimately, the project was using texts from the library's History of Science collection, so the graphics were not a good fit for the model that had been trained on photographs and the semester ended before developing a solution for developing appropriate datasets for re-training the model.
 
-_[Github repo] (https://github.com/dhelma/lorisal)_
+_[Github repo](https://github.com/dhelma/lorisal)_
 
-_The project was also presented to the OKC Python User Group as a way of introducing the processes and libraries involved, which can be viewed [here] ('./02-LORISAL/LORISAL-PythonUserGroup.pdf')._
+_The project was also presented to the OKC Python User Group as a way of introducing the processes and libraries involved, which can be viewed [here](./02-LORISAL/LORISAL-PythonUserGroup.pdf)._
 
 ## 2018
 
@@ -36,7 +36,7 @@ Developed for CS5043 at the University of Oklahoma and in collaboration with ano
 
 _Code for this is on an old machine, but I will need to sanitize customer-identifying information before publishing to GitHub._
 
-_Presentation Poster Available [here] ('./03-FlowRateEstimation/FlowRateEstimation-Poster.pdf')._
+_Presentation Poster Available [here](./03-FlowRateEstimation/FlowRateEstimation-Poster.pdf)._
 
 ## 2019 & 2020
 
@@ -48,13 +48,13 @@ _Presentation Poster Available [here] ('./03-FlowRateEstimation/FlowRateEstimati
 
 A video work stitching panoramas generated in real-time from pre-trained image synthesizing model.
 
-_More info on my [portfolio] (https://dgh.works/works/generative-landscape-churches/)._
+_More info on my [portfolio](https://dgh.works/works/generative-landscape-churches/)._
 
 #### Generative Towers VR Space
 
 A project allowing the user to "collaborate" with the generative model by blending synthesized images in an immersive VR environment. This works by taking from a stating palette of pre-rendered images generated from random vectors. Then, by choosing which images (and their associated vectors) to blend, the program calculates weighted-averages of the vector from the model's latent space and renders them in real-time. The user can then save the results for later use or publish them to social media.
 
-_More info on my [portfolio] (https://dgh.works/works/generative-towers-vr-space/)._
+_More info on my [portfolio](https://dgh.works/works/generative-towers-vr-space/)._
 
 ### State Machine
 
@@ -62,7 +62,7 @@ _More info on my [portfolio] (https://dgh.works/works/generative-towers-vr-space
 
 A 3-channel video piece using images of local award-recipients. The project used a model find a latent closest to representing the image in a pre-trained model, and then animated movement in the latent-space between award winners.
 
-_Video sample [here] (https://drive.google.com/file/d/12Z1bCFUtZJNPrYjgQ_M0K_f9sSV-t9l9/view?usp=sharing)._
+_Video sample [here](https://drive.google.com/file/d/12Z1bCFUtZJNPrYjgQ_M0K_f9sSV-t9l9/view?usp=sharing)._
 
 #### Political Ads
 
@@ -70,4 +70,4 @@ This work involved collaborating with a local archive of political advertisments
 
 _Code for this work is on another machine, but was developed in a series of notebooks, which should be posted here shortly._
 
-_Video sample [here] (https://drive.google.com/file/d/1mWVYybDJWivteDGWbAvZh7VG0qIj27cY/view?usp=sharing)._
+_Video sample [here](https://drive.google.com/file/d/1mWVYybDJWivteDGWbAvZh7VG0qIj27cY/view?usp=sharing)._
