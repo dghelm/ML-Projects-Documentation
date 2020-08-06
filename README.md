@@ -78,7 +78,7 @@ _Video sample [here](https://drive.google.com/file/d/12Z1bCFUtZJNPrYjgQ_M0K_f9sS
 
 #### Political Ads
 
-![Political Ads Still](./04-Artworks/PoliticalAds.jpg)
+![Political Ads Still](./04-Artworks/PoliticalAds.png)
 
 This work involved collaborating with a local archive of political advertisments to use Google Cloud and Compute services to transcribe over 6000 Oklahoma political ads from across 6 decades. My software then trained a model to generate its own "political ad" sentences, which were then connected to the closest actually-existing videoclips and edited together into a 6 hour, 2 channel video.
 
